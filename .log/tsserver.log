@@ -1,0 +1,121 @@
+Info 0    [21:03:30.337] Starting TS Server
+Info 1    [21:03:30.338] Version: 4.5.2
+Info 2    [21:03:30.338] Arguments: /home/enrique/.nvm/versions/node/v17.2.0/bin/node /home/enrique/.emacs.d/.cache/lsp/npm/typescript/bin/tsserver --logFile /home/enrique/Projects/sdwan-report/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/375d87a42268aae060ed72ee2c4f6684/tscancellation*
+Info 3    [21:03:30.338] Platform: linux NodeVersion: 17 CaseSensitive: true
+Info 4    [21:03:30.338] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [21:03:30.354] Format host information updated
+Info 6    [21:03:32.238] Search path: /home/enrique/Projects/sdwan-report/src
+Info 7    [21:03:32.239] For info: /home/enrique/Projects/sdwan-report/src/index.ts :: Config file name: /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 8    [21:03:32.240] Creating configuration project /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 9    [21:03:32.260] Config: /home/enrique/Projects/sdwan-report/tsconfig.json : {
+ "rootNames": [
+  "/home/enrique/Projects/sdwan-report/src/index.ts",
+  "/home/enrique/Projects/sdwan-report/src/commands/hello/index.ts",
+  "/home/enrique/Projects/sdwan-report/src/commands/hello/world.ts"
+ ],
+ "options": {
+  "declaration": true,
+  "importHelpers": true,
+  "module": 1,
+  "outDir": "/home/enrique/Projects/sdwan-report/dist",
+  "rootDir": "/home/enrique/Projects/sdwan-report/src",
+  "strict": true,
+  "target": 6,
+  "configFilePath": "/home/enrique/Projects/sdwan-report/tsconfig.json"
+ }
+}
+Info 10   [21:03:32.297] Starting updateGraphWorker: Project: /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 11   [21:03:34.681] Finishing updateGraphWorker: Project: /home/enrique/Projects/sdwan-report/tsconfig.json Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 2383.2580209998414ms
+Info 12   [21:03:34.681] Project '/home/enrique/Projects/sdwan-report/tsconfig.json' (Configured)
+Info 13   [21:03:34.685] 	Files (156)
+
+Info 14   [21:03:34.686] -----------------------------------------------
+Info 15   [21:03:34.695] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 16   [21:03:34.719] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 23.40906099975109ms
+Info 17   [21:03:34.719] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 18   [21:03:34.719] 	Files (91)
+
+Info 19   [21:03:34.719] -----------------------------------------------
+Info 20   [21:03:50.080] Search path: /home/enrique/Projects/sdwan-report/src/commands/hello
+Info 21   [21:03:50.081] For info: /home/enrique/Projects/sdwan-report/src/commands/hello/index.ts :: Config file name: /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 22   [21:04:11.146] Starting updateGraphWorker: Project: /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 23   [21:04:11.327] Finishing updateGraphWorker: Project: /home/enrique/Projects/sdwan-report/tsconfig.json Version: 2 structureChanged: true structureIsReused:: SafeModules Elapsed: 180.00096800085157ms
+Info 24   [21:04:11.327] Different program with same set of files
+Info 25   [21:04:11.350] Starting updateGraphWorker: Project: /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 26   [21:04:11.401] Finishing updateGraphWorker: Project: /home/enrique/Projects/sdwan-report/tsconfig.json Version: 3 structureChanged: true structureIsReused:: SafeModules Elapsed: 50.614905999973416ms
+Info 27   [21:04:11.401] Different program with same set of files
+Info 28   [21:04:12.613] Starting updateGraphWorker: Project: /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 29   [21:04:12.707] Finishing updateGraphWorker: Project: /home/enrique/Projects/sdwan-report/tsconfig.json Version: 4 structureChanged: true structureIsReused:: SafeModules Elapsed: 93.21376800071448ms
+Info 30   [21:04:12.707] Different program with same set of files
+Info 31   [21:04:12.765] forEachExternalModuleToImportFrom autoImportProvider: 12.847678000107408
+Info 32   [21:04:12.975] forEachExternalModuleToImportFrom autoImportProvider: 1.8511049998924136
+Info 33   [21:04:13.187] Starting updateGraphWorker: Project: /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 34   [21:04:13.240] Finishing updateGraphWorker: Project: /home/enrique/Projects/sdwan-report/tsconfig.json Version: 5 structureChanged: true structureIsReused:: SafeModules Elapsed: 52.64526200015098ms
+Info 35   [21:04:13.240] Different program with same set of files
+Info 36   [21:09:17.466] Search path: /home/enrique/Projects/sdwan-report/src/commands/hello
+Info 37   [21:09:17.467] For info: /home/enrique/Projects/sdwan-report/src/commands/hello/index.ts :: Config file name: /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 38   [21:09:17.467] Starting updateGraphWorker: Project: /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 39   [21:09:17.485] Finishing updateGraphWorker: Project: /home/enrique/Projects/sdwan-report/tsconfig.json Version: 6 structureChanged: false structureIsReused:: Completely Elapsed: 18.51752599980682ms
+Info 40   [21:09:17.486] Different program with same set of files
+Info 41   [21:09:36.397] Search path: /home/enrique/Projects/sdwan-report/src
+Info 42   [21:09:36.397] For info: /home/enrique/Projects/sdwan-report/src/index.ts :: Config file name: /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 43   [21:09:41.492] Search path: /home/enrique/Projects/sdwan-report/src/commands/hello
+Info 44   [21:09:41.492] For info: /home/enrique/Projects/sdwan-report/src/commands/hello/world.ts :: Config file name: /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 45   [21:23:33.824] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif :: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 46   [21:23:33.824] Elapsed:: 0.4279009997844696ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif :: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 47   [21:23:33.824] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif :: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /home/enrique/Projects/sdwan-report/tsconfig.json WatchType: Failed Lookup Locations
+Info 48   [21:23:33.825] Elapsed:: 0.5592689998447895ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif :: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /home/enrique/Projects/sdwan-report/tsconfig.json WatchType: Failed Lookup Locations
+Info 49   [21:23:33.825] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif :: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 50   [21:23:33.825] Elapsed:: 0.07043400034308434ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif :: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 51   [21:23:34.905] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif 0:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 52   [21:23:34.905] Elapsed:: 0.15581099968403578ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif 0:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 53   [21:23:34.905] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 1:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 54   [21:23:34.905] Elapsed:: 0.07540400046855211ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 1:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 55   [21:23:34.905] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif 2:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 56   [21:23:34.905] Elapsed:: 0.07202900014817715ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif 2:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 57   [21:23:34.905] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 3:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 58   [21:23:34.905] Elapsed:: 0.0632779998704791ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 3:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 59   [21:23:34.905] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif 0:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /home/enrique/Projects/sdwan-report/tsconfig.json WatchType: Failed Lookup Locations
+Info 60   [21:23:34.906] Elapsed:: 0.05163999926298857ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif 0:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /home/enrique/Projects/sdwan-report/tsconfig.json WatchType: Failed Lookup Locations
+Info 61   [21:23:34.906] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 1:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /home/enrique/Projects/sdwan-report/tsconfig.json WatchType: Failed Lookup Locations
+Info 62   [21:23:34.906] Elapsed:: 0.3011659998446703ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 1:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /home/enrique/Projects/sdwan-report/tsconfig.json WatchType: Failed Lookup Locations
+Info 63   [21:23:34.906] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif 2:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /home/enrique/Projects/sdwan-report/tsconfig.json WatchType: Failed Lookup Locations
+Info 64   [21:23:34.906] Elapsed:: 0.05172399990260601ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif 2:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /home/enrique/Projects/sdwan-report/tsconfig.json WatchType: Failed Lookup Locations
+Info 65   [21:23:34.906] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 3:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /home/enrique/Projects/sdwan-report/tsconfig.json WatchType: Failed Lookup Locations
+Info 66   [21:23:34.906] Elapsed:: 0.03604099992662668ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 3:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /home/enrique/Projects/sdwan-report/tsconfig.json WatchType: Failed Lookup Locations
+Info 67   [21:23:34.906] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif 0:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 68   [21:23:34.906] Elapsed:: 0.024736999534070492ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif 0:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 69   [21:23:34.906] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 1:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 70   [21:23:34.906] Elapsed:: 0.026736000552773476ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 1:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 71   [21:23:34.906] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif 2:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 72   [21:23:34.907] Elapsed:: 0.09391700010746717ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/oclif 2:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 73   [21:23:34.907] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 3:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 74   [21:23:34.907] Elapsed:: 0.03767099976539612ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 3:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 75   [05:19:57.117] Search path: /home/enrique/Projects/sdwan-report/src/commands/hello
+Info 76   [05:19:57.117] For info: /home/enrique/Projects/sdwan-report/src/commands/hello/index.ts :: Config file name: /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 77   [05:20:17.736] Search path: /home/enrique/Projects/sdwan-report/src
+Info 78   [05:20:17.736] For info: /home/enrique/Projects/sdwan-report/src/index.ts :: Config file name: /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 79   [05:20:26.131] Search path: /home/enrique/Projects/sdwan-report/src/commands/hello
+Info 80   [05:20:26.131] For info: /home/enrique/Projects/sdwan-report/src/commands/hello/world.ts :: Config file name: /home/enrique/Projects/sdwan-report/tsconfig.json
+Info 81   [05:22:41.813] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 0:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 82   [05:22:41.814] Elapsed:: 0.23729299753904343ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 0:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 83   [05:22:41.814] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 1:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 84   [05:22:41.814] Elapsed:: 0.17007099837064743ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 1:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined WatchType: node_modules for closed script infos and package.jsons affecting module specifier cache
+Info 85   [05:22:41.814] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 0:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /home/enrique/Projects/sdwan-report/tsconfig.json WatchType: Failed Lookup Locations
+Info 86   [05:22:41.814] Elapsed:: 0.13427000492811203ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 0:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /home/enrique/Projects/sdwan-report/tsconfig.json WatchType: Failed Lookup Locations
+Info 87   [05:22:41.814] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 1:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /home/enrique/Projects/sdwan-report/tsconfig.json WatchType: Failed Lookup Locations
+Info 88   [05:22:41.815] Elapsed:: 0.1250699982047081ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 1:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /home/enrique/Projects/sdwan-report/tsconfig.json WatchType: Failed Lookup Locations
+Info 89   [05:22:41.815] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 0:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 90   [05:22:41.815] Elapsed:: 0.06557400524616241ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 0:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 91   [05:22:41.815] DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 1:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 92   [05:22:41.815] Elapsed:: 0.3288070037961006ms DirectoryWatcher:: Triggered with /home/enrique/Projects/sdwan-report/node_modules/fsevents 1:: WatchInfo: /home/enrique/Projects/sdwan-report/node_modules 1 undefined Project: /dev/null/autoImportProviderProject1* WatchType: Failed Lookup Locations
+Info 93   [05:31:30.956] FileWatcher:: Triggered with /home/enrique/Projects/sdwan-report/package.json 1:: WatchInfo: /home/enrique/Projects/sdwan-report/package.json 250 undefined WatchType: package.json file
+Info 94   [05:31:30.957] Elapsed:: 1.088077001273632ms FileWatcher:: Triggered with /home/enrique/Projects/sdwan-report/package.json 1:: WatchInfo: /home/enrique/Projects/sdwan-report/package.json 250 undefined WatchType: package.json file
+Info 95   [05:37:03.061] FileWatcher:: Triggered with /home/enrique/Projects/sdwan-report/package.json 1:: WatchInfo: /home/enrique/Projects/sdwan-report/package.json 250 undefined WatchType: package.json file
+Info 96   [05:37:03.061] Elapsed:: 0.2295299991965294ms FileWatcher:: Triggered with /home/enrique/Projects/sdwan-report/package.json 1:: WatchInfo: /home/enrique/Projects/sdwan-report/package.json 250 undefined WatchType: package.json file
+Info 97   [05:37:05.062] FileWatcher:: Triggered with /home/enrique/Projects/sdwan-report/package.json 1:: WatchInfo: /home/enrique/Projects/sdwan-report/package.json 250 undefined WatchType: package.json file
+Info 98   [05:37:05.063] Elapsed:: 0.45769699662923813ms FileWatcher:: Triggered with /home/enrique/Projects/sdwan-report/package.json 1:: WatchInfo: /home/enrique/Projects/sdwan-report/package.json 250 undefined WatchType: package.json file
+Info 99   [05:37:45.081] FileWatcher:: Triggered with /home/enrique/Projects/sdwan-report/package.json 1:: WatchInfo: /home/enrique/Projects/sdwan-report/package.json 250 undefined WatchType: package.json file
+Info 100  [05:37:45.082] Elapsed:: 0.5786690041422844ms FileWatcher:: Triggered with /home/enrique/Projects/sdwan-report/package.json 1:: WatchInfo: /home/enrique/Projects/sdwan-report/package.json 250 undefined WatchType: package.json file
+Info 101  [05:50:11.589] Search path: /home/enrique/Projects/sdwan-report/src/commands/hello
+Info 102  [05:50:11.589] For info: /home/enrique/Projects/sdwan-report/src/commands/hello/index.ts :: Config file name: /home/enrique/Projects/sdwan-report/tsconfig.json
